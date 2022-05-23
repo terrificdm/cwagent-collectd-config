@@ -1,1 +1,2 @@
-# AWS CloudWatch Agent config example including integration with collectd
+#CloudWatch Agent with Collectd
+CWAgent config example, including integration with Collectd.
